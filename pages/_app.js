@@ -90,7 +90,7 @@ export default (
         />
         <meta
           name="msapplication-TileImage"
-          content="/icons/mstile-150x150.png"
+          content="/loggg.png"
         />
         <meta
           name="theme-color"
