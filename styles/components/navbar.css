@@ -13,8 +13,8 @@
 [data-navbar="dark"] {
   .navbar,.footer {
     @apply text-white;
-    background: #1a1919;
-    border-color: #1a1919;
+    background: #000000;
+    border-color: #000000;
     .navbar-search {
       input {
         background: color(theme('colors.slate.900'));

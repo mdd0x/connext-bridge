@@ -82,7 +82,7 @@ export default (
         />
         <link
           rel="shortcut icon"
-          href="/favicon.png"
+          href="/loggg.png"
         />
         <meta
           name="msapplication-TileColor"

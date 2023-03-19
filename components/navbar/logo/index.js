@@ -17,15 +17,15 @@ export default () => {
           <div className="flex dark:hidden items-center">
             <div className="flex sm:hidden">
               <Image
-                src="/logos/logo.png"
+                src="/logos/loggg.png"
                 width={32}
                 height={32}
               />
             </div>
             <div className="hidden sm:flex">
               <Image
-                src="/logos/logo_with_name.png"
-                width={128}
+                src="/logos/loggg.png"
+                width={32}
                 height={32}
               />
             </div>
@@ -33,21 +33,21 @@ export default () => {
           <div className="hidden dark:flex items-center">
             <div className="flex sm:hidden">
               <Image
-                src="/logos/logo_white.png"
+                src="/logos/loggg.png"
                 width={32}
                 height={32}
               />
             </div>
             <div className="hidden sm:flex">
               <Image
-                src="/logos/logo_with_name_white.png"
-                width={128}
+                src="/logos/loggg.png"
+                width={32}
                 height={32}
               />
             </div>
           </div>
           <div className="max-w-min bg-slate-200 dark:bg-slate-800 whitespace-nowrap uppercase text-slate-600 dark:text-white text-xs font-semibold py-1 px-2">
-            Beta
+            
           </div>
         </div>
       </a>

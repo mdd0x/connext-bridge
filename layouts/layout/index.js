@@ -192,7 +192,7 @@ export default (
               style={
                 {
                   minHeight: 'calc(100vh - 44px)',
-                  backgroundColor: theme === 'light' ? '#ececec' : '#1a1919',
+                  backgroundColor:'#000000',
                   // backgroundImage: `url("/images/background${theme === 'light' ? '_white' : ''}.png")`,
                   // backgroundSize: 'cover',
                 }
@@ -204,7 +204,6 @@ export default (
               </div>
             </div>
           </div>
-          <Footer />
         </div>
       </PageVisibility>
     </>

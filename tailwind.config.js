@@ -16,7 +16,7 @@ module.exports = {
         ...colors,
         dark: '#000000',
         light: '#ffffff',
-        black: '#1a1919',
+        black: '#000000',
         white: '#ececec',
         slate: {
           ...colors.slate,
