@@ -194,7 +194,7 @@ export default (
                   minHeight: 'calc(100vh - 44px)',
                   backgroundColor:'#000000',
                   // backgroundImage: `url("/images/background${theme === 'light' ? '_white' : ''}.png")`,
-                  // backgroundSize: 'cover',
+                  // backgroundSize: 'cover', 
                 }
               }
             >
